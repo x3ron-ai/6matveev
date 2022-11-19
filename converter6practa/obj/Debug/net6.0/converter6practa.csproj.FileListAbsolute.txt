@@ -1,0 +1,17 @@
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\converter6practa.exe
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\converter6practa.deps.json
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\converter6practa.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\converter6practa.dll
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\converter6practa.pdb
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.csproj.CopyComplete
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.dll
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\refint\converter6practa.dll
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.pdb
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\converter6practa.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\converter6practa\converter6practa\obj\Debug\net6.0\ref\converter6practa.dll
